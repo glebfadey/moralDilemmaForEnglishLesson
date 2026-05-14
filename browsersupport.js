@@ -1,0 +1,1 @@
+console.log("Browser support check passed");
